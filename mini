@@ -1,5 +1,5 @@
 public class rts {
     public static void main(String[] args) {
-        System.out.println(()(67.88));
+        System.out.println((int)(67.88));
     }
 }
